@@ -1,0 +1,16 @@
+{
+  "name": "my-first-electron-app",
+  "version": "1.0.0",
+  "description": "First app created with ElectronJS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev:watch": "npx electronmon --trace-warnings .",
+    "test": "test"
+  },
+  "author": "Johanna Detrieux",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.2.1"
+  }
+}
