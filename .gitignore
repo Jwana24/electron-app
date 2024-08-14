@@ -71,3 +71,10 @@ node_modules/
 
 # IDE
 .idea
+
+# ELECTRON
+out
+dist
+
+# PROD
+.DS_Store
